@@ -1,7 +1,7 @@
 # ＴｏＤｏ ａｐｐ
 
 
-## Stack: get storage, local notification, scheduled notification with zoned notification, sqflite, getx, dynamic theme change, light/dark theme mode change, custom animation
+Stack: get storage, local notification, scheduled notification with zoned notification, sqflite, getx, dynamic theme change, light/dark theme mode change, custom animation
 
 
 ![imgonline-com-ua-Resize-xY7MOsgzaFI](https://github.com/Alexaneva/toDo_schedule_app/assets/104970950/5c5fc4bb-fcc4-4bcd-b395-0a25a60c3059)
